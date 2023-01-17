@@ -1,6 +1,6 @@
 # Merge Sort
 ## Question A 
-### Sort the steps of the given sequence according to the joining algorithm
+### Sort the steps of the given sequence according to the merge algorithm
 
 
 
